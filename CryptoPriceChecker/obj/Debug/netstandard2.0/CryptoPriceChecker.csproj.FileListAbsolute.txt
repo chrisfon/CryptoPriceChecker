@@ -1,0 +1,15 @@
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\bin\Debug\netstandard2.0\CryptoPriceChecker.deps.json
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\bin\Debug\netstandard2.0\CryptoPriceChecker.dll
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\bin\Debug\netstandard2.0\CryptoPriceChecker.pdb
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\obj\Debug\netstandard2.0\CryptoPriceChecker.csproj.AssemblyReference.cache
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\obj\Debug\netstandard2.0\CryptoPriceChecker.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\obj\Debug\netstandard2.0\CryptoPriceChecker.AssemblyInfoInputs.cache
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\obj\Debug\netstandard2.0\CryptoPriceChecker.AssemblyInfo.cs
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\obj\Debug\netstandard2.0\CryptoPriceChecker.csproj.CoreCompileInputs.cache
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\obj\Debug\netstandard2.0\XamlC.stamp
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\obj\Debug\netstandard2.0\CryptoPriceChecker.dll
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\obj\Debug\netstandard2.0\refint\CryptoPriceChecker.dll
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\obj\Debug\netstandard2.0\CryptoPriceChecker.pdb
+F:\PROYECTOS VISUAL STUDIO\CryptoPriceChecker\CryptoPriceChecker\obj\Debug\netstandard2.0\ref\CryptoPriceChecker.dll
